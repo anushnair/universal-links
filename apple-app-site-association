@@ -12,9 +12,7 @@
             },
             {
               "appID": "2R6PE3P379.com.7ElevenNow.prod.PhoenixiOS",
-              "paths": [
-                “/7now/dl/*”
-              ]
+              "paths": [ “/7now/dl/*” ]
              }
         ]
     }
